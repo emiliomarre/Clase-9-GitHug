@@ -140,6 +140,9 @@ p{
     transform: translateY(-50%);
   }
   .hidden {
-    display: none;}
+    display: none;
+  }
+
 .greeting {
-  text-align: center;}
+  text-align: center;
+}
