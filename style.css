@@ -141,3 +141,6 @@ p{
   }
   .hidden {
     display: none;
+.greeting {
+  text-align: center;
+}
